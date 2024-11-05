@@ -1,0 +1,11 @@
+INFORMAÇÕES IMPORTANTES PARA PESSOAS QUE USAM VÁRIOS PACOTES DE IDIOMAS
+
+Aplicam-se a:
+ - Pessoas que instalam vários pacotes de idiomas e mantêm a localização da instalação de modelos padrão (C:\Users\Public\Documents\Autodesk\Inventor release year\Templates).
+ - Pessoas que armazenam e usam modelos personalizados na pasta C:\Users\Public\Documents\Autodesk\Inventor release year\Templates.
+
+Há várias versões, o Inventor oferece suporte a pacotes de idiomas. Com isso, é possível instalar vários idiomas em uma única instalação do Inventor e alternar entre os idiomas usando o atalho do menu Iniciar (que usa o parâmetro /language).  
+
+Embora os pacotes de idiomas instalem arquivos de modelo localizados, a utilização de diferentes idiomas do Inventor não altera os modelos usados por padrão. 
+
+No Inventor 2020, todos os pacotes de idiomas são instalados e usados da mesma forma. Não é mais necessário copiar os modelos para a pasta principal, pois o caminho do arquivo de modelo é atualizado quando o idioma é alterado. Isso simplifica o uso e a manutenção de modelos, sejam eles padrão ou personalizados. 
