@@ -7,7 +7,7 @@
 
 ## Robot Specifications
 
-| Robot version       | v2022         | v2023         |
+| Robot version       | v2014         | v2023         |
 | -----------------   | --------------| --------------|
 | Dimension           | Ø179 x 150mm  | Ø179 x 150mm  |
 | Total weight        | 3,5 kg        |  2,5 kg       |
