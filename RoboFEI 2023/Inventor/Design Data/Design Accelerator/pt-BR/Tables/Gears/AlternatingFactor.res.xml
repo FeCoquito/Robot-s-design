@@ -1,0 +1,6 @@
+<Resources>
+  <string id="%1%" value="Fator de alternância"/>
+  <string id="%2%" value="Carga repetida"/>
+  <string id="%3%" value="Carga de alternância (por exemplo, engrenagem intermediária)"/>
+  <string id="%4%" value="Operação reversível"/>
+</Resources>

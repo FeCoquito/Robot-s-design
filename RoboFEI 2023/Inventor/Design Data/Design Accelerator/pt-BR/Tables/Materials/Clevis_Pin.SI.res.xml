@@ -1,0 +1,14 @@
+<Resources>
+  <string id="%1%" value="Material do pino"/>
+  <string id="%2%" value="Designação do material"/>
+  <string id="%3%" value="Pressão de vergadura permitida"/>
+  <string id="%4%" value="MPa"/>
+  <string id="%5%" value="Tensão de corte permitida"/>
+  <string id="%7%" value="Aço gr. 37; 42; 4D"/>
+  <string id="%8%" value="Aço 11 500; 5D"/>
+  <string id="%9%" value="Aço 11 600; 12 040; 12 050; 8G"/>
+  <string id="%10%" value="Aço 11 700"/>
+  <string id="%11%" value="Material"/>
+  <string id="%12%" value="||s||.BA|"/>
+  <string id="%13%" value="||t||.Al|"/>
+</Resources>

@@ -1,0 +1,55 @@
+<Resources>
+  <string id="%1%" value="A viscosidade dinâmica dos lubrificantes selecionados dependia da temperatura"/>
+  <string id="%2%" value="Lubrificante"/>
+  <string id="%3%" value="Designação de lubrificante"/>
+  <string id="%4%" value="||h|"/>
+  <string id="%5%" value="Viscosidade dinâmica do lubrificante a 0 |^ou|C"/>
+  <string id="%6%" value="Pa s"/>
+  <string id="%7%" value="||r|"/>
+  <string id="%8%" value="Densidade do óleo"/>
+  <string id="%9%" value="kg m|^3|"/>
+  <string id="%10%" value="Viscosidade dinâmica do lubrificante a 10 |^ou|C"/>
+  <string id="%11%" value="Viscosidade dinâmica do lubrificante a 20 |^ou|C"/>
+  <string id="%12%" value="Viscosidade dinâmica do lubrificante a 30 |^ou|C"/>
+  <string id="%13%" value="Viscosidade dinâmica do lubrificante a 40 |^ou|C"/>
+  <string id="%14%" value="Viscosidade dinâmica do lubrificante a 50 |^ou|C"/>
+  <string id="%15%" value="Viscosidade dinâmica do lubrificante a 60 |^ou|C"/>
+  <string id="%16%" value="Viscosidade dinâmica do lubrificante a 70 |^ou|C"/>
+  <string id="%17%" value="Viscosidade dinâmica do lubrificante a 80 |^ou|C"/>
+  <string id="%18%" value="Viscosidade dinâmica do lubrificante a 90 |^ou|C"/>
+  <string id="%19%" value="Viscosidade dinâmica do lubrificante a 100 |^ou|C"/>
+  <string id="%20%" value="Óleo de rolamento SAE 10; 10-W"/>
+  <string id="%21%" value="Óleo de rolamento SAE 20; 20-W"/>
+  <string id="%22%" value="Óleo de rolamento SAE 30"/>
+  <string id="%23%" value="Óleo de rolamento SAE 40"/>
+  <string id="%24%" value="Óleo de rolamento SAE 50"/>
+  <string id="%25%" value="Óleo de rolamento SAE 60"/>
+  <string id="%26%" value="Óleo de rolamento SAE 70"/>
+  <string id="%27%" value="Óleo de rolamento P0"/>
+  <string id="%28%" value="Óleo de rolamento J1"/>
+  <string id="%29%" value="Óleo de rolamento J2"/>
+  <string id="%30%" value="Óleo de turbina TB32"/>
+  <string id="%31%" value="Óleo de rolamento J3"/>
+  <string id="%32%" value="Óleo de turbina T4C"/>
+  <string id="%33%" value="Óleo de rolamento J4"/>
+  <string id="%34%" value="Óleo de rolamento J5"/>
+  <string id="%35%" value="Óleo de motor M3AD"/>
+  <string id="%36%" value="Óleo de motor M4A"/>
+  <string id="%37%" value="Óleo de rolamento J6"/>
+  <string id="%38%" value="Óleo de motor M6A"/>
+  <string id="%39%" value="Óleo OD8"/>
+  <string id="%40%" value="Óleo M9A"/>
+  <string id="%41%" value="Óleo K12"/>
+  <string id="%42%" value="Óleo K18"/>
+  <string id="%43%" value="||h||.0|"/>
+  <string id="%44%" value="||h||.10|"/>
+  <string id="%45%" value="||h||.20|"/>
+  <string id="%46%" value="||h||.30|"/>
+  <string id="%47%" value="||h||.40|"/>
+  <string id="%48%" value="||h||.50|"/>
+  <string id="%49%" value="||h||.60|"/>
+  <string id="%50%" value="||h||.70|"/>
+  <string id="%51%" value="||h||.80|"/>
+  <string id="%52%" value="||h||.90|"/>
+  <string id="%53%" value="||h||.100|"/>
+</Resources>

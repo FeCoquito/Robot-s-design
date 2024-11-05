@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?><Resources>
+  <string id="%1%" value="ANSI"/>
+  <string id="%2%" value="Parafuso para máquina de cabeça chata (82)"/>
+  <string id="%3%" value="Parafuso para máquina de cabeça chata (100)"/>
+  <string id="%4%" value="Parafuso de cabeça hexagonal"/>
+  <string id="%5%" value="Parafuso para máquina de cabeça hexagonal"/>
+  <string id="%6%" value="Parafuso para máquina de cabeça ovalada"/>
+  <string id="%7%" value="Parafuso de cabeça cilíndrica"/>
+  <string id="%8%" value="ANSI (Métrico)"/>
+  <string id="%9%" value="Parafuso para máquina de cabeça chata"/>
+  <string id="%10%" value="Parafuso de cabeça arredondada hexagonal"/>
+  <string id="%11%" value="Parafuso para máquina de cabeça hexagonal"/>
+  <string id="%12%" value="DIN"/>
+  <string id="%13%" value="Parafuso de cabeça chata escareada"/>
+  <string id="%14%" value="Parafuso de cabeça escareada elevada"/>
+  <string id="%15%" value="Parafuso de cabeça hexagonal"/>
+  <string id="%16%" value="Parafuso hexagonal de cabeça escareada oca hexagonal"/>
+  <string id="%17%" value="Parafuso de cabeça cilíndrica hexagonal"/>
+  <string id="%18%" value="ISO"/>
+  <string id="%19%" value="Parafuso de cabeça arredondada escareada oca hexagonal"/>
+  <string id="%20%" value="JIS"/>
+  <string id="%21%" value="Furo perfurado"/>
+  <string id="%22%" value="Parafuso para máquina de cabeça chata (80)"/>
+  <string id="%23%" value="Parafuso de cabeça chata escareada DIN EN ISO 2009"/>
+  <string id="%24%" value="Parafuso de cabeça elevada escareada ISO 2010"/>
+  <string id="%25%" value="Parafuso de cabeça arredondada hexagonal DIN EN 24017"/>
+  <string id="%26%" value="Parafuso de cabeça arredondada hexagonal DIN EN 24014 (Escareado)"/>
+  <string id="%27%" value="Parafuso hexagonal de cabeça chata escareada oca DIN EN ISO 10642"/>
+  <string id="%28%" value="Parafuso de cabeça cilíndrica DIN EN ISO 4762"/>
+  <string id="%29%" value="Parafusos de cabeça cilíndrica chanfrada DIN 84"/>
+  <string id="%30%" value="Parafuso de cabeça chata escareada ISO 2009/7046"/>
+  <string id="%31%" value="Parafuso de cabeça escareada elevada ISO 2010/7047"/>
+  <string id="%32%" value="Parafuso de cabeça arredondada hexagonal ISO 24017"/>
+  <string id="%33%" value="Parafuso de cabeça arredondada hexagonal ISO 24014 (Escareado)"/>
+  <string id="%34%" value="Parafuso hexagonal de cabeça chata escareada oca ISO 10642"/>
+  <string id="%35%" value="Parafuso de cabeça cilíndrica ISO 4762"/>
+  <string id="%36%" value="Parafusos de cabeça cilíndrica chanfrada ISO 1207"/>
+  <string id="%37%" value="GOST"/>
+  <string id="%38%" value="GOST 12876-67"/>
+  <string id="%39%" value="Cabeça escareada GOST 12876-67"/>
+  <string id="%40%" value="Cabeça escareada + Arruela GOST 12876-67"/>
+  <string id="%41%" value="Parafuso / porca de cabeça hexagonal GOST 12876-67"/>  
+  <string id="%42%" value="Parafuso / porca de cabeça hexagonal (tamanho reduzido) GOST 12876-67"/>
+  <string id="%43%" value="Parafuso / porca de cabeça hexagonal (arruela aumentada) GOST 12876-67"/>
+  <string id="%44%" value="Parafuso hexagonal de cabeça cilíndrica GOST 12876-67"/>
+  <string id="%45%" value="Parafuso hexagonal de cabeça cilíndrica + Arruela GOST 12876-67"/>
+  <string id="%46%" value="Parafuso chanfrado de cabeça cilíndrica GOST 12876-67"/>
+  <string id="%47%" value="Parafuso chanfrado de cabeça cilíndrica + Arruela GOST 12876-67"/>
+</Resources>

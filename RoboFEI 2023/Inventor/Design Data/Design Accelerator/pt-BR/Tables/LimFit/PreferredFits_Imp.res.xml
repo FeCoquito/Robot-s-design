@@ -1,0 +1,20 @@
+<Resources>
+  <string id="%1%" value="Preferência de ajuste (Imperial)"/>
+  <string id="%2%" value="Nome de ajuste"/>
+  <string id="%3%" value="Transição=1 Interferência=2 folga=3"/>
+  <string id="%4%" value="Base no furo =1 Base no eixo =2"/>
+  <string id="%5%" value="Descrição do uso do ajuste"/>
+  <string id="%10%" value="Ajustes de transição de localização\nComprometimento entre os ajustes de folga e os ajustes de interferência.\nSão utilizados quando a precisão da localização é importante."/>
+  <string id="%11%" value="Ajustes de interferência de localização\nSão utilizados quando a precisão da localização é muito importante.\nNão são adequados para peças projetadas para transmitir cargas funcionais de\numa peça para outra mediante aperto do ajuste."/>
+  <string id="%12%" value="Ajustes para transmissão média\nAdequados para peças de aço comuns ou para ajustes por contração em seções leves."/>
+  <string id="%13%" value="Ajustes para transmissão pesada\nAdequados para peças de aço mais pesadas ou para ajustes por contração em seções médias."/>
+  <string id="%14%" value="Ajustes forçados\nAdequados para peças que podem suportar altos níveis de tensão ou para ajustes por contração nos quais&#xA;as forças de pressão necessárias, são impraticáveis."/>
+  <string id="%15%" value="Ajustes deslizantes apertados&#xA;Para a localização precisa de peças que&#xA;devem ser montadas sem folga perceptível."/>
+  <string id="%16%" value="Ajustes deslizantes\nPara uma localização precisa.\nAs peças movem e giram facilmente, mas o objetivo não é que se movam livremente."/>
+  <string id="%17%" value="Ajustes móveis de precisão\nPara um trabalho preciso a baixa velocidade e\nalta pressão de pinos de articulação leves."/>
+  <string id="%18%" value="Ajustes móveis apertados\nPara ajustes móveis em máquina de precisão\na pressão do pino de articulação e velocidades de superfície moderadas."/>
+  <string id="%19%" value="Ajustes móveis médios\nPara velocidades mais altas de movimento ou pressões de pino de articulação mais fortes."/>
+  <string id="%20%" value="Ajustes móveis não controlados\nA serem utilizados quando a precisão não é essencial ou\npode ter grandes variações de temperatura."/>
+  <string id="%21%" value="Ajustes móveis livres\nA serem utilizados quando são necessárias amplas tolerâncias comerciais,\nalém de tolerância no membro externo."/>
+  <string id="%22%" value="Ajustes de folga de localização\nPara peças fixas,\nmas que podem ser montadas ou desmontadas livremente."/>
+</Resources>

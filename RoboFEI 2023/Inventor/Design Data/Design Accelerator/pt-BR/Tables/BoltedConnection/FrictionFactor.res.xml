@@ -1,0 +1,17 @@
+<Resources>
+  <string id="%1%" value="Fator de atrito"/>
+  <string id="%2%" value="Material"/>
+  <string id="%3%" value="Não lubrificado"/>
+  <string id="%4%" value="Lubrificado"/>
+  <string id="%5%" value="aço - aço"/>
+  <string id="%6%" value="aço - ferro fundido"/>
+  <string id="%7%" value="aço - latão"/>
+  <string id="%8%" value="aço - latão"/>
+  <string id="%9%" value="ferro fundido - ferro fundido"/>
+  <string id="%10%" value="ferro fundido - bronze"/>
+  <string id="%11%" value="bronze - bronze"/>
+  <string id="%12%" value="alumínio - alumínio"/>
+  <string id="%13%" value="cobre - cobre"/>
+  <string id="%14%" value="aço - plexiglás"/>
+  <string id="%15%" value="plexiglás - plexiglás"/>
+</Resources>

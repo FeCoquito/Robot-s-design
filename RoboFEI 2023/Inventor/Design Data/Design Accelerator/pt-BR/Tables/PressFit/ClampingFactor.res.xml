@@ -1,0 +1,14 @@
+<Resources>
+  <string id="%1%" value="Fator de fixação"/>
+  <string id="%2%" value="Conexão de pressão"/>
+  <string id="%3%" value="Lubrificação"/>
+  <string id="%4%" value="Fator de fixação para"/>
+  <string id="%5%" value="Liberação"/>
+  <string id="%6%" value="Deslizamento"/>
+  <string id="%7%" value="Circunferencial"/>
+  <string id="%8%" value="Longitudinal"/>
+  <string id="%9%" value="Contração"/>
+  <string id="%10%" value="Lubrificado"/>
+  <string id="%11%" value="Não lubrificado"/>
+  <string id="%12%" value="Pressão"/>
+</Resources>

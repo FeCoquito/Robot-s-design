@@ -1,0 +1,15 @@
+<Resources>
+  <string id="%1%" value="Material do pino clevis"/>
+  <string id="%2%" value="Designação do material"/>
+  <string id="%3%" value="Pressão de vergadura permitida"/>
+  <string id="%4%" value="lpc"/>
+  <string id="%5%" value="Tensão de corte permitida"/>
+  <string id="%7%" value="Aço-carbono 1211; 1212; 1213"/>
+  <string id="%8%" value="Aço rico em carbono 1070 - 1095"/>
+  <string id="%9%" value="Aço inoxidável 302"/>
+  <string id="%10%" value="Aço inoxidável 410 - 420"/>
+  <string id="%11%" value="Aço-liga 6150H"/>
+  <string id="%12%" value="Material"/>
+  <string id="%13%" value="||s||.BA|"/>
+  <string id="%14%" value="||t||.Al|"/>
+</Resources>

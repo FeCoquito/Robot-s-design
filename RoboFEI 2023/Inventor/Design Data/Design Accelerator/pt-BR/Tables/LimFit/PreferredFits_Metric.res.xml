@@ -1,0 +1,19 @@
+<Resources>
+  <string id="%1%" value="Preferência de ajuste(métrico)"/>
+  <string id="%2%" value="Nome de ajuste"/>
+  <string id="%3%" value="Transição=1 Interferência=2 folga=3"/>
+  <string id="%4%" value="Base no furo =1 Base no eixo =2"/>
+  <string id="%5%" value="Descrição do uso do ajuste"/>
+  <string id="%10%" value="Conexão de pressão fixa com folga imperceptível ou interferência pequena \nMontada utilizando-se uma força pequena\nUtilizada para manutenção de motores elétricos em eixos, engrenagens ou parafusos ajustados"/>
+  <string id="%11%" value="Conexão de pressão constante com folga pequena ou interferência pequena\nMontada utilizando-se um martelo de cobre ou borracha\n Utilizada para pressões de conexão de desmontagem para cubos de engrenagens, polias etc."/>
+  <string id="%12%" value="Conexão de pressão deslizante com folga pequena e interferência imperceptível\nMontada manualmente\nUtilizada para facilitar a desmontagem de juntas de engrenagens, polias, mangas etc."/>
+  <string id="%13%" value="Conexão de pressão com interferência grande\nMontada utilizando-se uma força grande com diferentes temperaturas de \ncomponentes\nUtilizada para cubos de engrenagens ou flanges conectadas ao eixo"/>
+  <string id="%14%" value="Conexão de pressão com interferência média\nMontada utilizando-se força grande. A preferência é por\ndiferentes temperaturas de orifício e eixo.\nUtilizada para cubos de discos de embreagem ou buchas de rolamento"/>  
+  <string id="%15%" value="Conexão de ajuste de cisalhamento com folga imperceptível\nColocada sem força maior\nOs componentes podem ser movidos manualmente após a lubrificação\nCírculos intercambiáveis, anéis de fechamento, esteira transportadora circular"/>
+  <string id="%16%" value="Conexão de ajuste de cisalhamento\nColocada sem força maior\nOs componentes podem ser movidos manualmente após a lubrificação\nElementos de desmontagem leve, anel extensor,\nComponentes de máquina agrícola fixados em eixos com basculantes,\nparafusos ou juntas de bucha"/>
+  <string id="%17%" value="Conexão de ajuste giratório com folga muito pequena\nMontagem - montada atualmente sem folga considerável\nMontagens de de rodas deslizantes e rodas de embreagem ou hastes corrediças em rolamentos"/>
+  <string id="%18%" value="Conexões de ajuste giratório\nMontagem com folga considerável\nConexões de ajuste principais para máquinas fabris\nConexões de ajuste de hastes deslizantes ou eixos curvos"/>
+  <string id="%19%" value="Conexões de ajuste giratório com mais folga\nMontagem com folga maior\nConexões de ajuste para eixos longos montados como, por exemplo, de máquinas agrícolas"/>
+  <string id="%20%" value="Conexão de ajuste giratório com folga considerável&#xA;Montagem com folga grande&#xA;Vários eixos montados de máquinas fabris e de pistão ,&#xA;Eixos de hastes circulares de aço fundido"/>
+  <string id="%21%" value="Conexões de ajuste com folga grande de peças com grande tolerância\nMontagem com folga máxima\nTampões giratórios, parafusos, vazão de parada de parafusos  ramificados,\nConexões de ajuste para peças a serem soldadas"/>
+</Resources>

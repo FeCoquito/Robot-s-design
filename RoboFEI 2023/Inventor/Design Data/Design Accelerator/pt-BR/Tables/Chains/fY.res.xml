@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><Resources>
+  <string id="%1%" value="Fator de impacto"/>
+  <string id="%2%" value="Máquina acionada"/>
+  <string id="%3%" value="Motores elétricos"/>
+  <string id="%4%" value="Motores de combustão lenta (1 cilindro)"/>
+  <string id="%5%" value="Motores de combustão lenta (2 cilindros)"/>
+  <string id="%6%" value="Motores de combustão rápida (1 ou 2 cilindros)"/>
+  <string id="%7%" value="Motores de combustão rápida (4 cilindros)"/>
+  <string id="%8%" value="Motores de combustão rápida (6 ou mais cilindros)"/>
+  <string id="%9%" value="Turbinas hidráulicas de alta velocidade"/>
+  <string id="%10%" value="Turbinas hidráulicas de baixa velocidade"/>
+  <string id="%11%" value="Turbinas de vapor"/>
+  <string id="%12%" value="Máquinas de vapor"/>
+  <string id="%13%" value="Saída de caixa de engrenagens de transmissão"/>
+  <string id="%14%" value="Tornos, Furadeiras"/>
+  <string id="%15%" value="Fresadoras"/>
+  <string id="%16%" value="Plainas"/>
+  <string id="%17%" value="Limadoras, Ranhuradoras"/>
+  <string id="%18%" value="Plainas niveladoras"/>
+  <string id="%19%" value="Prensas hidráulicas"/>
+  <string id="%20%" value="Prensas excêntricas"/>
+  <string id="%21%" value="Prensas manuais"/>
+  <string id="%22%" value="Máquinas para carpintaria"/>
+  <string id="%23%" value="Chicotes"/>
+  <string id="%24%" value="Estruturas circulares"/>
+  <string id="%25%" value="Molde plano de lingerie"/>
+  <string id="%26%" value="Centrifugadoras"/>
+  <string id="%27%" value="Compressores alternativos de monofásicos"/>
+  <string id="%28%" value="compressores alternativos bifásicos"/>
+  <string id="%29%" value="compressores centrífugos de monofásico"/>
+  <string id="%30%" value="compressores centrífugos bifásicos"/>
+  <string id="%31%" value="Turbinas"/>
+  <string id="%32%" value="Ventiladores"/>
+  <string id="%33%" value="Bombas de pistão monocilíndricas"/>
+  <string id="%34%" value="Bombas de pistão de dois cilindros"/>
+  <string id="%35%" value="Bombas centrífugas"/>
+  <string id="%36%" value="Fresadoras com vários suportes"/>
+  <string id="%37%" value="Fresas contínuas"/>
+  <string id="%38%" value="Trituradoras"/>
+  <string id="%39%" value="Fresas misturadoras"/>
+  <string id="%40%" value="Fresas tubulares"/>
+  <string id="%41%" value="Fresas de martelos"/>
+  <string id="%42%" value="Calandras de transmissão"/>
+  <string id="%43%" value="Calandras diretas"/>
+  <string id="%44%" value="Trituradoras de celulose"/>
+  <string id="%45%" value="Telas vibratórias"/>
+  <string id="%46%" value="Moldadoras"/>
+  <string id="%47%" value="Misturadores giratórios"/>
+  <string id="%48%" value="Escavadeiras"/>
+  <string id="%49%" value="Cultivadores giratórios"/>
+  <string id="%50%" value="Misturadores"/>
+  <string id="%51%" value="Esteiras transportadoras para materiais soltos"/>
+  <string id="%52%" value="Esteiras transportadoras para materiais estruturais"/>
+  <string id="%53%" value="Dispositivos de elevação"/>
+  <string id="%54%" value="Empilhadeiras"/>
+  <string id="%55%" value="Molinetes de mineração"/>
+  <string id="%56%" value="Geradores - grandes"/>
+  <string id="%57%" value="Geradores - pequenos"/>
+  <string id="%58%" value="Entrada de caixa de engrenagens de transmissão"/>
+</Resources>

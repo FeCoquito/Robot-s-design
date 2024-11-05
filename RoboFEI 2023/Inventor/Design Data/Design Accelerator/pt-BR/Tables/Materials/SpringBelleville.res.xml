@@ -1,0 +1,38 @@
+<Resources>
+	<string id="%1%" value="Material da mola"/>
+	<string id="%2%" value="Designação do material"/>
+	<string id="%3%" value="Módulo de elasticidade"/>
+	<string id="%4%" value="lpc"/>
+	<string id="%5%" value="Coeficiente de Poisson"/>
+	<string id="%6%" value="AISI 1074 Aço rico em carbono (ASTM A684, AMS 5120H)"/>
+	<string id="%7%" value="AISI 301 Aço inoxidável (ASTM A666, AMS 5519)"/>
+	<string id="%8%" value="Inconel X-750 (liga de níquel cromo passível de têmpera)"/>
+	<string id="%9%" value="Bronze de fósforo"/>
+	<string id="%10%" value="E"/>
+	<string id="%11%" value="||m|"/>
+	<string id="%12%" value="ul"/>
+	<string id="%13%" value="Aço 65 GOST 14959-79"/>
+	<string id="%14%" value="Aço 70 GOST 14959-79"/>
+	<string id="%15%" value="Aço 75 GOST 14959-79"/>
+	<string id="%16%" value="Aço 80 GOST 14959-79"/>
+	<string id="%17%" value="Aço 85 GOST 14959-79"/>
+	<string id="%18%" value="Aço 60G GOST 14959-79"/>
+	<string id="%19%" value="Aço 65G GOST 14959-79"/>
+	<string id="%20%" value="Aço 70G GOST 14959-79"/>
+	<string id="%21%" value="Aço 55S2 GOST 14959-79"/>
+	<string id="%22%" value="Aço 55S2A GOST 14959-79"/>
+	<string id="%23%" value="Aço 60S2 GOST 14959-79"/>
+	<string id="%24%" value="Aço 70S3A GOST 14959-79"/>
+	<string id="%25%" value="Aço 60S2G GOST 14959-79"/>
+	<string id="%26%" value="Aço 50ChG GOST 14959-79"/>
+	<string id="%27%" value="Aço 50ChGA GOST 14959-79"/>
+	<string id="%28%" value="Aço 55ChGR GOST 14959-79"/>
+	<string id="%29%" value="Aço 60S2A GOST 14959-79"/>
+	<string id="%30%" value="Aço 50ChFA GOST 14959-79"/>
+	<string id="%31%" value="Aço 50ChGFA GOST 14959-79"/>
+	<string id="%32%" value="Aço 55S2GF GOST 14959-79"/>
+	<string id="%33%" value="Aço 60S2ChA GOST 14959-79"/>
+	<string id="%34%" value="Aço 60S2ChFA GOST 14959-79"/>
+	<string id="%35%" value="Aço 65S2VAI GOST 14959-79"/>
+	<string id="%36%" value="Aço 60S2N2A GOST 14959-79"/>
+</Resources>

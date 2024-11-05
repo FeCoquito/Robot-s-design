@@ -1,0 +1,6 @@
+<Resources>
+  <string id="%1%" value="Fator de projeto de acoplamento"/>
+  <string id="%2%" value="Conexão fixa"/>
+  <string id="%3%" value="Acoplamento deslizante sem carga"/>
+  <string id="%4%" value="Acoplamento deslizante durante a carga"/>
+</Resources>

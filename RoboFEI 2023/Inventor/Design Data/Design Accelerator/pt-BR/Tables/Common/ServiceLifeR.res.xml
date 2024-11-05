@@ -1,0 +1,12 @@
+<Resources>
+  <string id="%1%" value="Vida útil de serviço desejada [mil. de rotações]"/>
+  <string id="%2%" value="RPM baixas, pouco utilizadas"/>
+  <string id="%3%" value="RPM baixas, nem sempre utilizadas com rendimento total"/>
+  <string id="%4%" value="RPM baixas, utilizada com rendimento total"/>
+  <string id="%5%" value="RPM médias, pouco utilizadas"/>
+  <string id="%6%" value="RPM médias, nem sempre utilizadas com rendimento total"/>
+  <string id="%7%" value="RPM médias, utilizadas com rendimento total"/>
+  <string id="%8%" value="RPM altas, pouco utilizadas"/>
+  <string id="%9%" value="RPM altas, nem sempre utilizadas com rendimento total"/>
+  <string id="%10%" value="RPM altas, utilizadas com rendimento total"/>
+</Resources>

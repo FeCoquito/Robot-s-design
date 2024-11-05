@@ -1,0 +1,20 @@
+<Resources>
+  <string id="%1%" value="Material"/>
+  <string id="%2%" value="Designação do material"/>
+  <string id="%3%" value="Tensão de tração máxima"/>
+  <string id="%4%" value="lpc"/>
+  <string id="%5%" value="Pressão permitida"/>
+  <string id="%6%" value="Tensão de corte permitida"/>
+  <string id="%7%" value="Aço estrutural"/>
+  <string id="%8%" value="Aço-carbono"/>
+  <string id="%9%" value="Aço-liga e refinado"/>
+  <string id="%10%" value="Aço de superfície temperada"/>
+  <string id="%11%" value="Aço endurecido"/>
+  <string id="%12%" value="Ferro fundido com grafite laminar"/>
+  <string id="%13%" value="Ferro fundido com grafite esférico"/>
+  <string id="%14%" value="Liga de alumínio"/>
+  <string id="%15%" value="Material"/>
+  <string id="%16%" value="S|.ult|"/>
+  <string id="%17%" value="p|.A|"/>
+  <string id="%18%" value="||t||.Al|"/>
+</Resources>

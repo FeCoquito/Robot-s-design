@@ -1,0 +1,13 @@
+<Resources>
+  <string id="%1%" value="Forquilha: material da haste"/>
+  <string id="%2%" value="Designação do material"/>
+  <string id="%3%" value="Pressão permitida"/>
+  <string id="%4%" value="MPa"/>
+  <string id="%5%" value="Aço inoxidável"/>
+  <string id="%6%" value="Aço-liga de alta qualidade"/>
+  <string id="%7%" value="Aço fundido"/>
+  <string id="%8%" value="Ferro fundido cinza"/>
+  <string id="%9%" value="Bronze"/>
+  <string id="%10%" value="Material"/>
+  <string id="%11%" value="p|.Al|"/>
+</Resources>

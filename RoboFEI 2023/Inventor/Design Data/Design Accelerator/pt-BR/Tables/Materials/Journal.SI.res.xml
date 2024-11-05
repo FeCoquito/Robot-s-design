@@ -1,0 +1,12 @@
+<Resources>
+  <string id="%1%" value="Material de pino de articulação"/>
+  <string id="%2%" value="Designação do material"/>
+  <string id="%3%" value="Pressão permitida"/>
+  <string id="%4%" value="MPa"/>
+  <string id="%5%" value="Aço estrutural"/>
+  <string id="%6%" value="Aço-liga de alta qualidade"/>
+  <string id="%7%" value="Aço fundido"/>
+  <string id="%8%" value="Ferro fundido cinza"/>
+  <string id="%9%" value="Material"/>
+  <string id="%10%" value="||s||.al|"/>
+</Resources>

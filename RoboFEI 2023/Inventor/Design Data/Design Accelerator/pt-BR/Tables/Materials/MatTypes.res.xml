@@ -1,0 +1,29 @@
+<Resources>
+  <string id="%1%" value="Tipos de materiais"/>
+  <string id="%2%" value="Designação do material"/>
+  <string id="%3%" value="Módulo de elasticidade"/>
+  <string id="%4%" value="lpc"/>
+  <string id="%5%" value="Módulo de rigidez"/>
+  <string id="%6%" value="Coeficiente de Poisson"/>
+  <string id="%7%" value="Densidade"/>
+  <string id="%8%" value="lb/ft^3"/>
+  <string id="%9%" value="Ferro fundido cinza"/>
+  <string id="%10%" value="Ferro fundido maleável"/>
+  <string id="%11%" value="Aço"/>
+  <string id="%12%" value="Aço fundido"/>
+  <string id="%13%" value="Aço, níquel"/>
+  <string id="%14%" value="Aço inoxidável"/>
+  <string id="%15%" value="Latão"/>
+  <string id="%16%" value="Bronze"/>
+  <string id="%17%" value="Alumínio, liga"/>
+  <string id="%18%" value="Ligas de magnésio"/>
+  <string id="%19%" value="Cobre"/>
+  <string id="%20%" value="Material"/>
+  <string id="%21%" value="E"/>
+  <string id="%22%" value="G"/>
+  <string id="%23%" value="||m|"/>
+  <string id="%24%" value="||r|"/>
+  <string id="%25%" value="ul"/>
+  <string id="%26%" value="S|.y|"/>
+  <string id="%27%" value="Resistência à escoamento"/>
+</Resources>

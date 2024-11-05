@@ -1,0 +1,18 @@
+<Resources>
+  <string id="%1%" value="Diâmetro nominal"/>
+  <string id="%2%" value="Folga próxima"/>
+  <string id="%3%" value="Folga normal"/>
+  <string id="%4%" value="Folga livre"/>
+  <string id="%5%" value="Diâmetro da cabeça"/>
+  <string id="%6%" value="Profundidade do rebaixamento"/>
+  <string id="%7%" value="Ângulo do escareamento"/>
+  <string id="%8%" value="Furo perfurado ISO"/>
+  <string id="%9%" value="Parafuso de cabeça chata escareada ISO 2009/7046"/>
+  <string id="%10%" value="Parafuso de cabeça escareada elevada ISO 2010/7047"/>
+  <string id="%11%" value="Parafuso de cabeça arredondada hexagonal ISO 24017"/>
+  <string id="%12%" value="Parafuso de cabeça arredondada hexagonal ISO 24014 (Escareado)"/>
+  <string id="%13%" value="Parafuso de cabeça hexagonal ISO"/>
+  <string id="%14%" value="Parafuso hexagonal de cabeça chata escareada oca ISO 10642"/>
+  <string id="%15%" value="Parafuso de cabeça cilíndrica ISO 4762"/>
+  <string id="%16%" value="Parafusos de cabeça cilíndrica chanfrada ISO 1207"/>
+</Resources>

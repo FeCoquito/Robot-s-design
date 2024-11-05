@@ -1,0 +1,6 @@
+<Resources>
+  <string id="%1%" value="Modificador de proporção de pinhão"/>
+  <string id="%2%" value="Pinhões montados abertos com excentricidade relativa inferior a 0,175"/>
+  <string id="%3%" value="Pinhões montados abertos com  excentricidade relativa superior a 0,175"/>
+  <string id="%4%" value="A excentricidade relativa é a unidade de distância da face média do pinhão a partir da linha de centro do intervalo do rolamento"/>
+</Resources>

@@ -1,0 +1,17 @@
+<Resources>
+  <string id="%1%" value="Diâmetro nominal"/>
+  <string id="%2%" value="Folga próxima"/>
+  <string id="%3%" value="Folga normal"/>
+  <string id="%4%" value="Folga livre"/>
+  <string id="%5%" value="Diâmetro da cabeça"/>
+  <string id="%6%" value="Profundidade do rebaixamento"/>
+  <string id="%7%" value="Ângulo do escareamento"/>
+  <string id="%8%" value="Roscas de parafuso unificadas ANSI"/>
+  <string id="%9%" value="Parafuso da máquina de cabeça chata ANSI (82)"/>
+  <string id="%10%" value="Parafuso de máquina de cabeça chata ANSI (100)"/>
+  <string id="%11%" value="Parafuso de cabeça hexagonal ANSI"/>
+  <string id="%12%" value="Parafuso de máquina de cabeça hexagonal ANSI"/>
+  <string id="%13%" value="Parafuso de máquina de cabeça ovalada ANSI"/>
+  <string id="%14%" value="Parafuso de cabeça cilíndrica ANSI"/>
+  <string id="%15%" value="Parafuso de máquina de cabeça chata ANSI (80)"/>
+</Resources>

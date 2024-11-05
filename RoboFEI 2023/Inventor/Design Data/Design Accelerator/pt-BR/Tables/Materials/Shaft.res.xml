@@ -1,0 +1,15 @@
+<Resources>
+  <string id="%1%" value="Material do eixo (ANSI)"/>
+  <string id="%2%" value="Designação do material"/>
+  <string id="%3%" value="Pressão permitida"/>
+  <string id="%4%" value="lpc"/>
+  <string id="%5%" value="Tensão de torção permitida"/>
+  <string id="%6%" value="Aço inoxidável"/>
+  <string id="%7%" value="Aço-liga de alta qualidade"/>
+  <string id="%8%" value="Aço fundido"/>
+  <string id="%9%" value="Ferro fundido cinza"/>
+  <string id="%10%" value="Bronze"/>
+  <string id="%11%" value="Material"/>
+  <string id="%12%" value="||s||.Al|"/>
+  <string id="%13%" value="||t||.AlT|"/>
+</Resources>

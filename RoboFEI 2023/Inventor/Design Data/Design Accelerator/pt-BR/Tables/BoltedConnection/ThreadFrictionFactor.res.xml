@@ -1,0 +1,9 @@
+<Resources>
+  <string id="%1%" value="Fator de atrito de rosca"/>
+  <string id="%2%" value="Superfície de rosca"/>
+  <string id="%3%" value="Não lubrificado"/>
+  <string id="%4%" value="Lubrificado"/>
+  <string id="%5%" value="revestimento negro ou de fosfato"/>
+  <string id="%6%" value="revestimento de zinco galvânico"/>
+  <string id="%7%" value="revestimento eletrolítico de cádmio"/>
+</Resources>

@@ -1,0 +1,10 @@
+<Resources>
+  <string id="%1%" value="Vida útil de serviço desejada [horas]"/>
+  <string id="%2%" value="Aparelhos domésticos, instrumentos e ferramentas de pouco uso"/>
+  <string id="%3%" value="Máquinas para períodos de uso curto ou intermitente, ferramentas elétricas manuais"/>
+  <string id="%4%" value="Máquinas de alta confiabilidade para períodos de uso curto ou intermitente"/>
+  <string id="%5%" value="Máquinas para funcionamento durante 8 horas diárias, de uso parcial"/>
+  <string id="%6%" value="Máquinas para funcionamento entre 8 a 16 horas diárias, de uso total"/>
+  <string id="%7%" value="Máquinas para uso contínuo"/>
+  <string id="%8%" value="Máquinas para uso contínuo com alto nível de segurança"/>
+</Resources>

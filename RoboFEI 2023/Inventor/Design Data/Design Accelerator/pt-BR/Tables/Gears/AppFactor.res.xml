@@ -1,0 +1,9 @@
+<Resources>
+  <string id="%1%" value="Fator de aplicação"/>
+  <string id="%2%" value="Impactos de máquina de acionamento"/>
+  <string id="%3%" value="Impactos de máquina acionada"/>
+  <string id="%4%" value="Com fluidez"/>
+  <string id="%5%" value="Impactos leves"/>
+  <string id="%6%" value="Impactos moderados"/>
+  <string id="%7%" value="Impactos fortes"/>
+</Resources>

@@ -1,0 +1,13 @@
+<Resources>
+  <string id="%1%" value="Material da junta"/>
+  <string id="%2%" value="Designação do material"/>
+  <string id="%3%" value="Resistência a tração da junta"/>
+  <string id="%4%" value="lpc"/>
+  <string id="%5%" value="Resistência a cisalhamento da junta"/>
+  <string id="%6%" value="Solda de estanho"/>
+  <string id="%7%" value="Solda de cobre"/>
+  <string id="%8%" value="Solda de prata"/>
+  <string id="%9%" value="Material"/>
+  <string id="%10%" value="S||.s|"/>
+  <string id="%11%" value="S||.t|"/>
+</Resources>

@@ -1,0 +1,9 @@
+<Resources>
+  <string id="%1%" value="Fator de distribuição de carga para erro de alinhamento de splines flexíveis"/>
+  <string id="%2%" value="Erro de alinhamento, polegadas por polegada"/>
+  <string id="%3%" value="Fator de distribuição de carga, Km"/>
+  <string id="%4%" value="Largura de face de 1/2 polegada"/>
+  <string id="%5%" value="Largura de face de 1 polegada"/>
+  <string id="%6%" value="Largura de face de 2 polegadas"/>
+  <string id="%7%" value="Largura de face de 4 polegadas"/>
+</Resources>

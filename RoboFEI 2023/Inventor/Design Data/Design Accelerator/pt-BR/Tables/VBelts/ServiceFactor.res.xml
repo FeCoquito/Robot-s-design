@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><Resources>
+  <string id="%1%" value="Fator de serviço"/>
+  <string id="%2%" value="Trabalho leve"/>
+  <string id="%3%" value="Trabalho médio"/>
+  <string id="%4%" value="Trabalho pesado"/>
+  <string id="%5%" value="Trabalho muito pesado"/>
+  <string id="%6%" value="Serviço intermitente"/>
+  <string id="%7%" value="Serviço normal"/>
+  <string id="%8%" value="Serviço contínuo"/>
+  <string id="%9%" value="3-5 horas diárias"/>
+  <string id="%10%" value="8-10 horas diárias"/>
+  <string id="%11%" value="16-24 horas diárias"/>
+  <string id="%12%" value="Máquina de acionamento"/>
+  <string id="%13%" value="Máquina acionada"/>
+  <string id="%14%" value="Torque normal"/>
+  <string id="%15%" value="Torque alto"/>
+</Resources>

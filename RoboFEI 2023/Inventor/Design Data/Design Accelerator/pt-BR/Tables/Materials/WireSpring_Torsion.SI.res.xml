@@ -1,0 +1,41 @@
+<Resources>
+<string id="%1%" value="Material da mola"/>
+<string id="%2%" value="Designação do material"/>
+<string id="%3%" value="Densidade"/>
+<string id="%4%" value="kg/m^3"/>
+<string id="%5%" value="Módulo extensível"/>
+<string id="%6%" value="MPa"/>
+<string id="%7%" value="Coeficiente entre tensão de vergadura permitida e resistência máxima à tração"/>
+<string id="%8%" value="Tensão de tração máxima"/>
+<string id="%9%" value="Aço-carbono esticado e patenteado - primeira classe"/>
+<string id="%10%" value="Aço-carbono esticado e patenteado - segunda classe"/>
+<string id="%11%" value="Aço-carbono esticado e patenteado - terceira classe"/>
+<string id="%12%" value="Aço-carbono esticado e patenteado - quarta classe"/>
+<string id="%13%" value="Aço-carbono esticado e patenteado - quinta classe"/>
+<string id="%14%" value="Fio de aço-carbono com tratamento térmico"/>
+<string id="%15%" value="Fio com tratamento térmico - Aço Se-Cr (14 260)"/>
+<string id="%16%" value="Fio recozido - Aço Se-Cr (14 260)"/>
+<string id="%17%" value="Fio com tratamento térmico - Aço Mn-Cr-V (15 260)"/>
+<string id="%18%" value="Fio recozido - Aço Mn-Cr-V (15 260)"/>
+<string id="%19%" value="Fio esticado - Aço inoxidável Cr-Ni (17 242)"/>
+<string id="%20%" value="Bronze de estanho esticado (42 3016 e 42 3018)"/>
+<string id="%21%" value="Latão esticado (42 3210 e 42 3213)"/>
+<string id="%22%" value="Material"/>
+<string id="%23%" value="Norma"/>
+<string id="%24%" value="Norma"/>
+<string id="%25%" value="R|.o|"/>
+<string id="%26%" value="E"/>
+<string id="%27%" value="Coeficientes"/>
+<string id="%28%" value="WD"/>
+<string id="%29%" value="Diâmetros dos fios"/>
+<string id="%30%" value="mm"/>
+<string id="%31%" value="||s||.ult|"/>
+<string id="%32%" value="ISO"/>
+<string id="%33%" value="DIN"/>
+<string id="%34%" value="Diâmetros dos fios e Resistência máxima à tração"/>
+<string id="%35%" value="ul"/>
+<string id="%36%" value="Fio de aço, classe 1"/>
+<string id="%37%" value="Fio de aço, classe 2 e 2A"/>
+<string id="%38%" value="Fio de aço, classe 3"/>
+<string id="%39%" value="GOST"/>
+</Resources>

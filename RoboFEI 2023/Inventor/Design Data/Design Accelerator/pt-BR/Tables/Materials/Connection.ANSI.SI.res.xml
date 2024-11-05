@@ -1,0 +1,20 @@
+<Resources>
+  <string id="%1%" value="Material de spline"/>
+  <string id="%2%" value="Designação do material"/>
+  <string id="%3%" value="Número de dureza de Brinell"/>
+  <string id="%4%" value="ul"/>
+  <string id="%5%" value="Número de dureza de Vicker (pirâmide)"/>
+  <string id="%6%" value="Tensão de compressão permitida"/>
+  <string id="%7%" value="MPa"/>
+  <string id="%8%" value="Tensão de corte permitida"/>
+  <string id="%9%" value="Aço"/>
+  <string id="%10%" value="Aço de superfície temperada"/>
+  <string id="%11%" value="Aço de endurecimento"/>
+  <string id="%12%" value="Material"/>
+  <string id="%13%" value="B|.hn|"/>
+  <string id="%14%" value="HV"/>
+  <string id="%15%" value="S|.c|"/>
+  <string id="%16%" value="S|.s|"/>
+  <string id="%17%" value="Tensão de tração permitida"/>
+  <string id="%18%" value="S|.t|"/>
+</Resources>

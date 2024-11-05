@@ -1,0 +1,33 @@
+<Resources>
+<string id="%1%" value="Material da mola"/>
+<string id="%2%" value="Designação do material"/>
+<string id="%3%" value="Densidade"/>
+<string id="%4%" value="lb/ft^3"/>
+<string id="%5%" value="Módulo extensível"/>
+<string id="%6%" value="lpc"/>
+<string id="%7%" value="Coeficiente entre tensão de vergadura permitida e resistência máxima à tração"/>
+<string id="%8%" value="Tensão de tração máxima"/>
+<string id="%9%" value="Fio de instrumentos musicais QQ-W-470"/>
+<string id="%10%" value="Fio de aço temperado em óleo QQ-W-428"/>
+<string id="%11%" value="Fio de aço endurecido por estiramento a frio QQ-W-428"/>
+<string id="%12%" value="Fio de aço ao cromovanádio"/>
+<string id="%13%" value="Fio de aço-liga com silício ao cromo QQ-W-412"/>
+<string id="%14%" value="Aço inoxidável 302 e 304"/>
+<string id="%15%" value="Aço inoxidável 420"/>
+<string id="%16%" value="Aço inoxidável 431"/>
+<string id="%17%" value="Aço inoxidável 316"/>
+<string id="%18%" value="Aço inoxidável 17-7PH"/>
+<string id="%19%" value="ANSI"/>
+<string id="%20%" value="Material"/>
+<string id="%21%" value="Norma"/>
+<string id="%22%" value="Norma"/>
+<string id="%23%" value="R|.o|"/>
+<string id="%24%" value="E"/>
+<string id="%25%" value="Coeficientes"/>
+<string id="%26%" value="WD"/>
+<string id="%27%" value="Diâmetros dos fios"/>
+<string id="%28%" value="in"/>
+<string id="%29%" value="||s||.ult|"/>
+<string id="%30%" value="Diâmetros dos fios e Resistência máxima à tração"/>
+<string id="%31%" value="ul"/>
+</Resources>

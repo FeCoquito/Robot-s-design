@@ -1,0 +1,14 @@
+<Resources>
+  <string id="%1%" value="Mola prato - ANSI"/>
+  <string id="%2%" value="Nome"/>
+  <string id="%3%" value="Designação de mola"/>
+  <string id="%4%" value="D"/>
+  <string id="%5%" value="Diâmetro externo"/>
+  <string id="%6%" value="in"/>
+  <string id="%7%" value="Diâmetro interno"/>
+  <string id="%8%" value="d"/>
+  <string id="%9%" value="Espessura do material"/>
+  <string id="%10%" value="t"/>
+  <string id="%11%" value="Altura sem carga"/>
+  <string id="%12%" value="H"/>
+</Resources>

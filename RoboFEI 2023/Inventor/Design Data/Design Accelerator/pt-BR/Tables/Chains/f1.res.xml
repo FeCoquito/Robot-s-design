@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><Resources>
+  <string id="%1%" value="Fator de serviço"/>
+  <string id="%2%" value="Características de máquina acionada"/>
+  <string id="%3%" value="Características de máquina de acionamento"/>
+  <string id="%4%" value="Execução uniforme"/>
+  <string id="%5%" value="Impactos leves"/>
+  <string id="%6%" value="Impactos moderados"/>
+  <string id="%7%" value="Impactos fortes"/>
+  <string id="%8%" value="Fator de impacto"/>
+</Resources>
