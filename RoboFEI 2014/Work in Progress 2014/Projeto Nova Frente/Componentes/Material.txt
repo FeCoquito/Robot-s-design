@@ -1,0 +1,33 @@
+
+
+Alumínio série 6 ou série 7 
+
+Chapa: 2m x 1,5m x 3mm (Chapas inferiores, comprimento e largura em metros e espessura em mm)
+Chapa: 2m x 1,5m x 4mm  
+
+Chapa:  6mm x 20mm x  850mm (Viga do frontal)
+Chapa:  6mm x 40mm x  250mm (Suporte do EC22)
+Chapa:  7mm x 60mm x 1500mm (Mancais de roda)
+Chapa: 14mm x 80mm x  600mm (viga do amortecedor)
+Chapa: 14mm x 60mm x 1200mm (Kick, espaçador do mancal)
+chapa: 15mm x 60mm x 1200mm (suportes: solenóide, Chipkick)
+Chapa: 20mm x 40mm x  700mm (Chip kick)
+Chapa: 22mm x 45mm x 1200mm (Suporte do encoder)
+Barra:   Diam. 8mm x 1200mm (Hastes da capa
+________________________________________________________________________________________________
+
+Aço prata
+
+Barra: Diâmetro 7mm x 1000mm 
+Barra: Diâmetro 6mm x 1000mm
+Barra: Diâmetro 5mm x 1000mm
+
+================================================================================================
+Caso não tenhamos rodas suficientes para os novos robôs
+================================================================================================
+
+Tarugo alumínio série 6 ou 7: Diâmetro de 60mm x 300mm
+
+Aço Inox
+Barra: Diâmetro 10mm x 2m (roletes para mais dois robôs)
+

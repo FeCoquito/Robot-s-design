@@ -1,0 +1,13 @@
+
+Celeron
+
+12x60x2000mm (Laterais)
+10x60x3000mm (Suporte - Capacitores)
+10x30x1500mm (suporte - Baterias Central)
+10x30x1000mm (Suporte - Bateria Traseito)
+15x50x2000mm (Guia - Conectores laterais)
+15x25x1600mm (Batentes Traseiros)
+25x50x250mm  (Guia - Conector Frontal)
+15x60x600 mm (chip kick)
+
+Diâmetro de 35mm x (Solenóide) 580mm
